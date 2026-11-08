@@ -37,6 +37,8 @@ mastersystem/console.png: "Sega-Master-System-Set.png" by Evan-Amos, Public doma
 mastersystem/logo.png: "Master System Logo.svg", Public domain, https://commons.wikimedia.org/wiki/File:Master_System_Logo.svg (trademark of its owner)
 genesis/console.png: "Sega-Genesis-Mod1-Set.png" by Evan-Amos, Public domain, https://commons.wikimedia.org/wiki/File:Sega-Genesis-Mod1-Set.png
 genesis/logo.png: "Sega genesis logo.svg", Public domain, https://commons.wikimedia.org/wiki/File:Sega_genesis_logo.svg (trademark of its owner)
+segacd/console.png: "Sega-CD-Model1-Set.jpg" by Evan-Amos, Public domain, https://commons.wikimedia.org/wiki/File:Sega-CD-Model1-Set.jpg
+segacd/logo.png: "Sega CD Logo (USA).svg", Public domain, https://commons.wikimedia.org/wiki/File:Sega_CD_Logo_(USA).svg (trademark of its owner)
 gamegear/console.png: "Game-Gear-Handheld.jpg" by Evan-Amos, Public domain, https://commons.wikimedia.org/wiki/File:Game-Gear-Handheld.jpg
 gamegear/logo.png: "Game gear us-jp logo.svg", Public domain, https://commons.wikimedia.org/wiki/File:Game_gear_us-jp_logo.svg (trademark of its owner)
 saturn/console.png: "Sega-Saturn-Console-Set-Mk1.png" by Evan-Amos, Public domain, https://commons.wikimedia.org/wiki/File:Sega-Saturn-Console-Set-Mk1.png
@@ -72,6 +74,7 @@ The GameCube controller is drawn from a photograph by Monathephantom (Wikimedia 
 The Game Boy Advance is drawn from a photograph by Zeartul (Wikimedia Commons, CC BY-SA 3.0).
 The Nintendo 3DS is drawn from a photograph by Green Yoshi (Wikimedia Commons, CC BY-SA 3.0).
 The Genesis controller is drawn from a photograph by Sintegrity (Wikimedia Commons, CC BY-SA 4.0).
+The Sega CD's 6-button pad is drawn from a photograph by Sintegrity (Wikimedia Commons, CC BY-SA 4.0).
 The Saturn control pad and the DualShock 2 are drawn from photographs by Alphathon (Wikimedia Commons, CC BY-SA 3.0),
 the DualShock 2's sticks also from one by PiaCarrot (Wikimedia Commons, CC BY-SA 3.0).
 The PlayStation controller is drawn from a photograph by Raizin (Wikimedia Commons, CC BY-SA 3.0).
