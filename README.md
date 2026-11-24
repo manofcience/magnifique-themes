@@ -65,7 +65,7 @@ favorites/logo.png: drawn for this theme
 
 ## Pixel Retro
 
-Every console drawn in pixel art, its name lettered beside it on coloured stripes.
+Each console's controller drawn in pixel art, or the console itself for handhelds, its name lettered beside it on coloured stripes.
 
 ```text
 Pixel Retro, a Magnifique theme by manofcience.
