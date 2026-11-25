@@ -10,7 +10,7 @@ Each console photographed on a dark gradient, under its logo.
 
 ```text
 Magnifique Platforms: image credits
-Console photos and logos come from Wikimedia Commons, under the licences listed. Logos are trademarks of their
+Console photos and logos come from Wikimedia Commons, under the licenses listed. Logos are trademarks of their
 owners; this theme is not affiliated with or endorsed by them. A cut-out of a CC BY-SA photo is CC BY-SA too.
 
 nes/console.png: "NES-Console-Set.png" by Evan-Amos, Public domain, https://commons.wikimedia.org/wiki/File:NES-Console-Set.png
@@ -57,7 +57,7 @@ psvita/console.png: "PlayStation-Vita-1101-FL.png" by Evan-Amos, Public domain, 
 psvita/logo.png: "PlayStation Vita logo.svg", Public domain, https://commons.wikimedia.org/wiki/File:PlayStation_Vita_logo.svg (trademark of its owner)
 mame/console.png: "Blinky, Pinky, Inky and Clyde.svg" by Bandai Namco Entertainment America, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Blinky,_Pinky,_Inky_and_Clyde.svg; "Original PacMan.svg" by Namco, Public domain, https://commons.wikimedia.org/wiki/File:Original_PacMan.svg (drawn side by side for this theme)
 mame/logo.png: "MAMELogo.svg", Public domain, https://commons.wikimedia.org/wiki/File:MAMELogo.svg (trademark of its owner)
-android/console.png: the Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License (https://creativecommons.org/licenses/by/3.0/); from File:Android robot.svg, Wikimedia Commons, recoloured to #3DDC84
+android/console.png: the Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License (https://creativecommons.org/licenses/by/3.0/); from File:Android robot.svg, Wikimedia Commons, recolored to #3DDC84
 android/logo.png: "Android" set in Archivo Black for this theme; Android is a trademark of Google LLC
 favorites/console.png: drawn for this theme
 favorites/logo.png: drawn for this theme
@@ -65,7 +65,7 @@ favorites/logo.png: drawn for this theme
 
 ## Pixel Retro
 
-Each console's controller drawn in pixel art, or the console itself for handhelds, its name lettered beside it on coloured stripes.
+Each console's controller drawn in pixel art, or the console itself for handhelds, its name lettered beside it on colored stripes.
 
 ```text
 Pixel Retro, a Magnifique theme by manofcience.
